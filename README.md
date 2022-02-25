@@ -9,7 +9,7 @@
 
 <br>
 
-<h3 align="center">Languages and Tools I've worked with in the past:</h3>
+<h3 align="center">Languages and Tools I use daily and some I've worked with:</h3>
 
 <br>
 
