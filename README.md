@@ -7,18 +7,6 @@
 
 - 🌱 I’m currently learning **Angular, ASP.NET** and some **Wordpress** (why not?). Also, I am trying my luck with **automated testing** and **OO best practices** (object design, design patterns, TDD, BDD and so on).
 
-- 📫 Get in touch with me **overbecksilva.leonardo@gmail.com**
-
-<br>
-
-<h3 align="center">Connect with me:</h3>
-
-<br>
-
-<p align="center">
-<a href="https://linkedin.com/in/overbecksilvaleonardo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="overbecksilvaleonardo" height="30" width="40" /></a>
-</p>
-
 <br>
 
 <h3 align="center">Languages and Tools I've worked with in the past:</h3>
