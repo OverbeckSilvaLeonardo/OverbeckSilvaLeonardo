@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **Oneweb Soluções Inteligentes** as a **FullStack developer**, but with heavy focus on the backend stuff.
 
-- 🌱 Also, I’m currently learning **Angular, ASP.NET** and some **Wordpress** (why not?). Also, I am trying my luck with **automated testing** and **OO best practices** (object design, design patterns, TDD, BDD and so on).
+- 🌱 Also, I’m currently learning **Angular, ASP.NET** and some **Wordpress** (why not?) and trying my luck with **automated testing** and **OO best practices** (object design, design patterns, TDD, BDD and so on).
 
 <br>
 
