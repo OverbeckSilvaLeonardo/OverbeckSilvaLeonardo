@@ -36,9 +36,10 @@
 <br>
 
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=overbecksilvaleonardo&show_icons=true&locale=en" alt="overbecksilvaleonardo" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=overbecksilvaleonardo&show_icons=true&locale=en&layout=compact" alt="overbecksilvaleonardo" />
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=overbecksilvaleonardo&" alt="overbecksilvaleonardo" />
+    <br>
+    <br>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=overbecksilvaleonardo&show_icons=true&locale=en" alt="overbecksilvaleonardo" />
 </p>
 
 
