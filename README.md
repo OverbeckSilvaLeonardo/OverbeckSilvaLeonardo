@@ -3,11 +3,11 @@
 
 <br>
 
-- 🔭 I’m currently working at **Oneweb Soluções Inteligentes** as a FullStack developer, but with heavy focus on the backend stuff.
+- 🔭 I’m currently working at **Oneweb Soluções Inteligentes** as a **FullStack developer**, but with heavy focus on the backend stuff.
 
-- 🌱 I’m currently learning **Angular, ASP.NET and some Wordpress (why not?). Also, I am trying my luck with automated testing and OO best practices.**
+- 🌱 I’m currently learning **Angular, ASP.NET and some Wordpress** (why not?). Also, I am trying my luck with **automated testing** and **OO best practices** (object design and such).
 
-- 📫 How to reach me **overbecksilva.leonardo@gmail.com**
+- 📫 Get in touch with me **overbecksilva.leonardo@gmail.com**
 
 <br>
 
