@@ -30,7 +30,7 @@
 
 <br>
 
-<h3 align="center">..and some I've gotten my feet wet with:</h3>
+<h3 align="center">...and some I've gotten my feet wet with:</h3>
 
 <br>
 
